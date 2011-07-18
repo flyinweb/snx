@@ -10,7 +10,7 @@ Operation System that formed by, basically, two pieces:
 The mission of project: Make Operation System with built-in sandboxing and only execute node.js programs.
 
 Proposed projects:
-- NASH (Node Active Shell)
+- NACI (Node Active Command-line Interpreter) ok, it's a shell! :)
 - Authentication system (to replace posix passwd shadow)
 - Auth utils (login)
 - syslog
