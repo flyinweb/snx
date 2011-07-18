@@ -1,3 +1,7 @@
+Project: SNX - Secure Unix
+Author.: Antonio Feitosa <@antonio_cfc>
+LICENSE: GPL v2
+Description:
 Operation System that formed by, basically, two pieces:
 
 (1) Unix-like Kernel
