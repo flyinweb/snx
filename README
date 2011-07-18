@@ -13,6 +13,8 @@ Proposed projects:
 - NASH (Node Active Shell)
 - Authentication system (to replace posix passwd shadow)
 - Auth utils (login)
+- syslog
+and growing...
 
 +-----------------------+
 |    System services    |
