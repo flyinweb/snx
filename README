@@ -2,12 +2,12 @@ Project: SNX - Secure Unix
 Author.: Antonio Feitosa <@antonio_cfc>
 LICENSE: GPL v2
 Description:
-Operation System that formed by, basically, two pieces:
+Operating System that formed by, basically, two pieces:
 
 (1) Unix-like Kernel
 (2) Node.JS
 
-The mission of project: Make Operation System with built-in sandboxing and only execute node.js programs.
+The mission of project: Make Operatin System with built-in sandboxing and only execute node.js programs.
 
 Proposed projects:
 - NACI (Node Active Command-line Interpreter) ok, it's a shell! :)
